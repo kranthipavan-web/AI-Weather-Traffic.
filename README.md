@@ -9,6 +9,7 @@ https://ai-weather-traffic.lovable.app/
 -Route optimization suggestions 
 <br>
 -Mobile responsive design
+<br>
 ## How it works
 <br>
 1.Enter your location 
