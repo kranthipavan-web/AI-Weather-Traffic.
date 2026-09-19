@@ -1,7 +1,7 @@
 # AI-Weather-Traffic.
 https://ai-weather-traffic.lovable.app/
 <br>
-features
+## features
 <br>
 -Real-time weather data with ai predictions
 <br>
